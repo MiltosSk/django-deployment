@@ -25,7 +25,7 @@ SECRET_KEY = '0%eb8mk+5gry%_ie#3gy-!b#jo148#^^h+%2ndq3mwa&_c#aca'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['miltos.pythonanywhere.com']
 
 
 # Application definition
